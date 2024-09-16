@@ -12,7 +12,7 @@
         "1/4 teaspoon salt",
         "1/4 teaspoon baking powder"
       ],
-      "image": "/images/brownie.jpg",
+      "image": "../images/brownie.jpg",
       "description": "Preheat the oven to 350°F (175°C). Melt butter in a saucepan. Remove from heat and stir in sugar, eggs, and vanilla. Beat in cocoa, flour, salt, and baking powder. Spread the batter into a prepared pan. Bake for 20 to 25 minutes, until the brownie edges start to pull away from the pan."
     },
     {
@@ -30,7 +30,7 @@
         "1/2 teaspoon salt",
         "2 cups semisweet chocolate chips"
       ],
-      "image": "/images/cookie.jpg",
+      "image": "../images/cookie.jpg",
       "description": "Preheat the oven to 350°F (175°C). Cream together the butter, sugar, and brown sugar until smooth. Beat in the eggs one at a time, then stir in the vanilla. Dissolve baking soda in hot water and add to the mixture. Stir in the flour, salt, and chocolate chips. Drop spoonfuls onto ungreased pans. Bake for about 10 minutes, until the edges are nicely browned."
     },
     {
@@ -46,7 +46,7 @@
         "1 jar pasta sauce",
         "1 egg"
       ],
-      "image": "/images/lasagna.jpg",
+      "image": "../images/lasagna.jpg",
       "description": "Preheat the oven to 375°F (190°C). Cook the lasagna noodles in boiling water until al dente. In a skillet, cook ground beef and onion over medium heat until browned. Stir in pasta sauce and simmer for 5 minutes. In a bowl, mix ricotta cheese, egg, and half the mozzarella. Layer noodles, meat sauce, and cheese mixture in a baking dish. Top with remaining mozzarella and Parmesan. Bake for 25 to 30 minutes until bubbly and golden."
     },
     {
@@ -62,7 +62,7 @@
         "1/2 teaspoon salt",
         "1/2 teaspoon pepper"
       ],
-      "image": "/images/mac-and-cheese.jpg",
+      "image": "../images/mac-and-cheese.jpg",
       "description": "Cook macaroni according to package directions. In a saucepan, melt butter over medium heat. Stir in flour and cook for about 1 minute. Slowly add milk, stirring constantly until the mixture thickens. Stir in cheeses until melted and smooth. Season with salt and pepper. Mix the sauce with the cooked macaroni. Serve warm or bake for 20 minutes at 350°F (175°C) if you prefer a baked version."
     },
     {
@@ -79,7 +79,7 @@
         "2 teaspoons vanilla extract",
         "1/2 cup milk"
       ],
-      "image": "/images/cupcake.jpg",
+      "image": "../images/cupcake.jpg",
       "description": "Preheat the oven to 350°F (175°C) and line a muffin tin with paper liners. In a bowl, whisk together flour, baking powder, baking soda, and salt. In another bowl, beat butter and sugar until fluffy. Add eggs one at a time, then vanilla. Alternate adding flour mixture and milk, beginning and ending with flour. Spoon the batter into the liners. Bake for 18 to 20 minutes, until a toothpick inserted in the center comes out clean."
     }
   ]
