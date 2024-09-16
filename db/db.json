@@ -15,10 +15,5 @@
       "title": "Brownies",
       "description": "et iusto sed quo iure\nvoluptatem occaecati omnis eligendi aut ad\nvoluptatem doloribus vel accusantium quis pariatur\nmolestiae porro eius odio et labore et velit aut"
     }
-  ],
-  "/recipes/:id": {
-    "GET": {
-      "action": "db.get('recipes').find({ id: parseInt(req.params.id) })"
-    }
-  }
+  ]
 }
