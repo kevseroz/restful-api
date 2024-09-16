@@ -2,18 +2,85 @@
   "recipes": [
     {
       "id": 1,
-      "title": "Cookies",
-      "description": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
+      "title": "Brownie",
+      "ingredients": [
+        "1/2 cup butter",
+        "1 cup white sugar",
+        "2 eggs",
+        "1/3 cup unsweetened cocoa powder",
+        "1/2 cup all-purpose flour",
+        "1/4 teaspoon salt",
+        "1/4 teaspoon baking powder"
+      ],
+      "image": "/images/brownie.jpg",
+      "description": "Preheat the oven to 350°F (175°C). Melt butter in a saucepan. Remove from heat and stir in sugar, eggs, and vanilla. Beat in cocoa, flour, salt, and baking powder. Spread the batter into a prepared pan. Bake for 20 to 25 minutes, until the brownie edges start to pull away from the pan."
     },
     {
       "id": 2,
-      "title": "Cupcakes",
-      "description": "est rerum tempore vitae\nsequi sint nihil reprehenderit dolor beatae ea dolores neque\nfugiat blanditiis voluptate porro vel nihil molestiae ut reiciendis\nqui aperiam non debitis possimus qui neque nisi nulla"
+      "title": "Chocolate Cookie",
+      "ingredients": [
+        "1 cup butter, softened",
+        "1 cup white sugar",
+        "1 cup packed brown sugar",
+        "2 eggs",
+        "2 teaspoons vanilla extract",
+        "3 cups all-purpose flour",
+        "1 teaspoon baking soda",
+        "2 teaspoons hot water",
+        "1/2 teaspoon salt",
+        "2 cups semisweet chocolate chips"
+      ],
+      "image": "/images/cookie.jpg",
+      "description": "Preheat the oven to 350°F (175°C). Cream together the butter, sugar, and brown sugar until smooth. Beat in the eggs one at a time, then stir in the vanilla. Dissolve baking soda in hot water and add to the mixture. Stir in the flour, salt, and chocolate chips. Drop spoonfuls onto ungreased pans. Bake for about 10 minutes, until the edges are nicely browned."
     },
     {
       "id": 3,
-      "title": "Brownies",
-      "description": "et iusto sed quo iure\nvoluptatem occaecati omnis eligendi aut ad\nvoluptatem doloribus vel accusantium quis pariatur\nmolestiae porro eius odio et labore et velit aut"
+      "title": "Lasagna",
+      "ingredients": [
+        "9 lasagna noodles",
+        "1 pound ground beef",
+        "1/2 onion, chopped",
+        "2 cups ricotta cheese",
+        "2 cups mozzarella cheese",
+        "1/4 cup grated Parmesan cheese",
+        "1 jar pasta sauce",
+        "1 egg"
+      ],
+      "image": "/images/lasagna.jpg",
+      "description": "Preheat the oven to 375°F (190°C). Cook the lasagna noodles in boiling water until al dente. In a skillet, cook ground beef and onion over medium heat until browned. Stir in pasta sauce and simmer for 5 minutes. In a bowl, mix ricotta cheese, egg, and half the mozzarella. Layer noodles, meat sauce, and cheese mixture in a baking dish. Top with remaining mozzarella and Parmesan. Bake for 25 to 30 minutes until bubbly and golden."
+    },
+    {
+      "id": 4,
+      "title": "Mac and Cheese",
+      "ingredients": [
+        "8 oz elbow macaroni",
+        "2 cups shredded cheddar cheese",
+        "1/2 cup grated Parmesan cheese",
+        "3 cups milk",
+        "1/4 cup butter",
+        "2 1/2 tablespoons all-purpose flour",
+        "1/2 teaspoon salt",
+        "1/2 teaspoon pepper"
+      ],
+      "image": "/images/mac-and-cheese.jpg",
+      "description": "Cook macaroni according to package directions. In a saucepan, melt butter over medium heat. Stir in flour and cook for about 1 minute. Slowly add milk, stirring constantly until the mixture thickens. Stir in cheeses until melted and smooth. Season with salt and pepper. Mix the sauce with the cooked macaroni. Serve warm or bake for 20 minutes at 350°F (175°C) if you prefer a baked version."
+    },
+    {
+      "id": 5,
+      "title": "Cupcake",
+      "ingredients": [
+        "1 1/2 cups all-purpose flour",
+        "1/2 teaspoon baking powder",
+        "1/4 teaspoon baking soda",
+        "1/4 teaspoon salt",
+        "1/2 cup unsalted butter",
+        "1 cup white sugar",
+        "2 eggs",
+        "2 teaspoons vanilla extract",
+        "1/2 cup milk"
+      ],
+      "image": "/images/cupcake.jpg",
+      "description": "Preheat the oven to 350°F (175°C) and line a muffin tin with paper liners. In a bowl, whisk together flour, baking powder, baking soda, and salt. In another bowl, beat butter and sugar until fluffy. Add eggs one at a time, then vanilla. Alternate adding flour mixture and milk, beginning and ending with flour. Spoon the batter into the liners. Bake for 18 to 20 minutes, until a toothpick inserted in the center comes out clean."
     }
   ]
 }
